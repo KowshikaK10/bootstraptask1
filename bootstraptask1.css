@@ -1,0 +1,28 @@
+header,main,footer {
+    background-image: url('https://www.codepel.com/wp-content/uploads/2023/03/Animated-Website-Background-With-Html5.png');
+  }
+.img-responsive{
+    float: right;
+    width: 400px;
+    height: 500px;
+}
+.nav-link:hover{
+  opacity: 0.3;
+}
+.card:hover{
+  box-shadow: 10px 10px 10px 10px;
+  background-color: rgb(68, 66, 66);
+  opacity: 0.3;
+}
+.mx-auto {
+    width: 300px;
+}
+.form-control:hover{
+    box-shadow: 10px 10px 10px 10px;
+}
+a.fa{
+  text-decoration: none;
+  color: rgb(187, 163, 185);
+  font-size: larger;
+}
+
